@@ -1,4 +1,6 @@
-Docs
+The Storyberg Docs
 ====
 
-Storyberg API and support docs.
+Welcome to the Storyberg documentation.
+
+## [Storyberg Wiki](https://github.com/Storyberg/Docs/wiki)
